@@ -1,7 +1,7 @@
 ## Hello there!
 ### SDET and Software Engineering academic
 
-Productive SDET with 3 years of experience supporting organizations in accelerating and enhancing diagnostic efforts via robust quality processes.
+Proactive SDET with 3 years of experience supporting organizations in accelerating and enhancing diagnostic efforts via robust quality processes.
 Eager to advance test automation and align technical improvements with strategic business objectives through thoughtful iteration.
 
 Here you will find some of the projects I've worked on during my journey as a Quality Assurance Engineer and in Software Engineering.
@@ -17,10 +17,10 @@ Here you will find some of the projects I've worked on during my journey as a Qu
 
 ---
 
-🔗 **[Quality Assurance - Delek Homess Project](https://github.com/HenriqueTonel/DelekHomes-Project)**
+🔗 **[Quality Assurance - Delek Homes Project](https://github.com/HenriqueTonel/DelekHomes-Project)**
 
 Automated scripts, test cases and Postman API collection I've developed for Delek Homes' website. 
 
 🔗 **[Software Engineering Projects](HenriqueTonel/Software-Engineering-Portfolio)**
 
-My portfolio of projects I've lead/developed in my Software Engineering journey.
+My portfolio of projects I've led/developed in my Software Engineering journey.

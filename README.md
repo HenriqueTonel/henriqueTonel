@@ -4,7 +4,7 @@
 Productive SDET with 3 years of experience supporting organizations in accelerating and enhancing diagnostic efforts via robust quality processes.
 Eager to advance test automation and align technical improvements with strategic business objectives through thoughtful iteration.
 
-Here you will find some of the projects I've worked on during my journey as a Quality Assurance Engineer and in Software Engineerning.
+Here you will find some of the projects I've worked on during my journey as a Quality Assurance Engineer and in Software Engineering.
 
 ![Playwright](https://img.shields.io/badge/Playwright-006600?style=flat&logoSize=auto&color=%23006600)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&logoSize=auto&labelColor=%23F7DF1E&color=%23F7DF1E&cacheSeconds=3600)

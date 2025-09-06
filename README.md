@@ -20,7 +20,7 @@ Here you will find some of the projects I've worked on during my journey as a Qu
 🔗 **[Quality Assurance - Delek Homes Project](https://github.com/HenriqueTonel/DelekHomes-Project)**
 
 Automated scripts, test cases and Postman API collection I've developed for Delek Homes' website. 
-
-🔗 **[Software Engineering Projects](HenriqueTonel/Software-Engineering-Portfolio)**
+https://github.com/HenriqueTonel/Software-Engineering-Portfolio
+🔗 **[Software Engineering Projects](https://github.com/HenriqueTonel/Software-Engineering-Portfolio)**
 
 My portfolio of projects I've led/developed in my Software Engineering journey.

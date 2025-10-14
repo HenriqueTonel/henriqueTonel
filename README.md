@@ -21,6 +21,6 @@ Here you will find some of the projects I've worked on during my journey as a Qu
 
 Automated scripts, test cases and Postman API collection I've developed for Delek Homes' website. 
 
-🔗 **[Community Project](https://github.com/HenriqueTonel/SE-community-project)**
+🔗 **[Software Engineering - Community Project](https://github.com/HenriqueTonel/SE-community-project)**
 
 My community integration project in Software Engineering.

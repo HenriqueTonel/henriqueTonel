@@ -21,6 +21,6 @@ Here you will find some of the projects I've worked on during my journey as a Qu
 
 Automated scripts, test cases and Postman API collection I've developed for Delek Homes' website. 
 
-🔗 **[Software Engineering Projects](https://github.com/HenriqueTonel/Software-Engineering-Portfolio)**
+🔗 **[Community Project](https://github.com/HenriqueTonel/SE-community-project)**
 
-My portfolio of projects I've led/developed in my Software Engineering journey.
+My community integration project in Software Engineering.
